@@ -1,31 +1,30 @@
-# Hi, I'm hezengwei 👋
+# 何增伟
 
-> 工具开发者 | 效率爱好者 | 终身学习者
-
-## 关于我
-
-- 🔧 专注于开发实用的文档处理工具
-- 🐍 主要使用 Python 进行开发
-- 📚 热爱学习新技术，乐于分享
-- 🎯 目标：让文档处理变得更简单
-
-## 技术栈
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+Python 工具开发者，专注企业效率工具和数据管理。
 
 ## 项目
 
-| 项目 | 描述 | 状态 |
-|------|------|------|
-| [PDF转PPT工具](https://github.com/hezengwei1-beep/hezengwei) | 将PDF转换为可编辑的PowerPoint文件 | 🚀 活跃开发 |
+### 企业工具链
 
-## 统计
+| 项目 | 说明 |
+|------|------|
+| [feishu-wiki-manager](https://github.com/hezengwei1-beep/feishu-wiki-manager) | 飞书知识库 CLI 管理工具 |
+| [obsidian-feishu-sync](https://github.com/hezengwei1-beep/obsidian-feishu-sync) | Obsidian 与飞书文档双向同步 |
+| [dingtalk-approval-sync](https://github.com/hezengwei1-beep/dingtalk-approval-sync) | 钉钉审批流程自动同步到飞书多维表 |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hezengwei1-beep&show_icons=true&theme=default&hide_border=true)
+### 效率工具
 
----
+| 项目 | 说明 |
+|------|------|
+| [baidu-netdisk-manager](https://github.com/hezengwei1-beep/baidu-netdisk-manager) | 百度网盘文件管理与清理工具 |
+| [disk-management-tools](https://github.com/hezengwei1-beep/disk-management-tools) | macOS 磁盘分析与智能清理工具集 |
 
-*"工具的价值在于解决实际问题"*
+### 可视化
+
+| 项目 | 说明 |
+|------|------|
+| [china-service-map](https://github.com/hezengwei1-beep/china-service-map) | 基于 React + ECharts 的中国服务地图 |
+
+## 技术栈
+
+Python / JavaScript / React / ECharts / SQLite / Click / Rich / 飞书 API / 钉钉 API / 百度网盘 API
